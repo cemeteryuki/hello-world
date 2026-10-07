@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 ## Office hours
@@ -43,3 +44,7 @@ We will use [Canvas](canvas.pitt.edu) to let you submit your repository. You sho
 2. Make sure your repository is public if it's not already. Here are [instructions](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) for how to make it public. If your repository is private then we can't see your team's commits and you will temporarily receive a 0.
 3. One and only one of you needs to submit a url to the repository page. If you joined a group correctly, one submission will count for all of you.
 4. We will look at the commit history and give credit to all group members who contributed. Additionally we will not give any credit if the repository only has one contributor.
+=======
+# hello-world
+Big Ideas CMPINF0010 Lab repo
+>>>>>>> 9af3eac76950cf67b6248e110d9895e55a98f969
